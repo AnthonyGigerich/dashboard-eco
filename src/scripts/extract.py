@@ -1,2 +1,3 @@
 # input : requete api
-# output : data/raw requete + concaténation discussions
+# requete API + concaténation discussions
+# output : data/external
